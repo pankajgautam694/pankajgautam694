@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajgautam694&label=Profile%20views&color=0e75b6&style=flat" alt="pankajgautam694" /> </p>
 
-- 🌱 I’m currently learning **CodeIgniter & React**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pankajgautam694](https://github.com/pankajgautam694)
 
