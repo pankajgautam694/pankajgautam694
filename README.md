@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pankajgautam694](https://github.com/pankajgautam694)
 
-- 💬 Ask me about **PHP, Laravel**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **pankajgautam694@gmail.com**
 
